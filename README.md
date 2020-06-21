@@ -5,3 +5,5 @@ Some basic clustering machine learning application with datasets in python, stay
 https://www.kaggle.com/binovi/wholesale-customers-data-set
 
 
+2 Clustering CC General.csv using two clustering methods with different cluster numbers based on elbow.
+https://www.kaggle.com/arjunbhasin2013/ccdata
